@@ -13,7 +13,7 @@ $ pip install opencv-python opend3d
 ```
 Clone the calibration tool to your computer.
 ``` bash
-$ git clone https://github.com/pengpengfei97/LiDAR-Camera-Calibration-Tool.git
+$ git clone https://github.com/onePPF/LiDAR-Camera-Calibration-Tool.git
 ```
 
 ## Data
