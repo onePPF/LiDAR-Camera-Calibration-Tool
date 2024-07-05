@@ -36,6 +36,3 @@ $ python calibrate.py
 ```bash
 $ python project.py
 ```
-
-## P.S.
-Updates will be provided to enhance the tool in the future.
