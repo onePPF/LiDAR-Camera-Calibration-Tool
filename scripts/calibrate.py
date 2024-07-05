@@ -112,7 +112,7 @@ def extract_points_3D(path):
     b = []
 
     for intensity in intensities:
-        h = intensity / 1
+        h = intensity / 255
         r_, g_, b_ = colorsys.hls_to_rgb(h, 0.4, 0.5)
 
         r.append(r_)
